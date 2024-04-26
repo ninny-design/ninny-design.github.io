@@ -1,4 +1,4 @@
 # ninny-design.github.io
 
 *코드펜 예시 이미지 
-![feey-Ls0EPPUVfy4-unsplash](https://github.com/ninny-design/__Ninny_Design/assets/144912387/23ae2f6e-da57-4097-9759-0501a548bafc)
+![raimond-klavins-lt_zJH4GT_M-unsplash](https://github.com/ninny-design/ninny-design.github.io/assets/144912387/bbd448d8-0b49-4768-a52e-2c85746044f7)
